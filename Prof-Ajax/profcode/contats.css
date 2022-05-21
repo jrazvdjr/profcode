@@ -1,0 +1,96 @@
+.menus{
+    background-color: black;
+    
+       
+}
+#home{
+    color: #366994;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+    margin-left: 205px;
+    margin-top: 45px;
+}
+#home:hover{
+    color: #ffe052;
+    font-size: rem;
+    width: 50px;
+}
+
+#musica{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: #ffe052;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#musica:hover{
+    color: #366994;
+    font-size: rem;
+    width: 50px;
+}
+
+#aulas{
+    margin-left: 250px;
+    margin-top: 30px;
+    color: #ffe052;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#aulas:hover{
+    color: #366994;
+    font-size: rem;
+    width: 50px;
+}
+
+#contatos{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: #ffe052;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#contatos:hover{
+    color: #366994;
+    font-size: rem;
+    width: 50px;
+}
+
+article{
+    margin: 20px;
+    align-items: center;
+}
+
+form{
+    padding: 10px;
+    align-items: center;
+    background-color: #366994;
+    height: 420px;
+    width: 300px;
+    margin-left: 480px;
+    border: 20px solid #ffe052;
+}
+
+label{
+    color: #ffe052;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#btn{
+    background-color: #ffe052;
+    height: 40px;
+    width: 80px;
+    margin-left: 5px;
+    color: #366994;
+}
+
+input{
+    border: 5px solid #ffe052;
+}
