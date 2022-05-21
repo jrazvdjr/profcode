@@ -1,0 +1,105 @@
+.menus{
+    background-color: black;
+    
+       
+}
+#home{
+    color: #366994;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+    margin-left: 205px;
+    margin-top: 45px;
+}
+#home:hover{
+    color: #ffe052;
+    font-size: rem;
+    width: 50px;
+}
+
+#musica{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: #ffe052;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#musica:hover{
+    color: #366994;
+    font-size: rem;
+    width: 50px;
+}
+
+#aulas{
+    margin-left: 250px;
+    margin-top: 30px;
+    color: #ffe052;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#aulas:hover{
+    color: #366994;
+    font-size: rem;
+    width: 50px;
+}
+
+#contatos{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: #ffe052;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#contatos:hover{
+    color: #366994;
+    font-size: rem;
+    width: 50px;
+}
+
+#logo{
+    align-items: center;
+    margin-left: 380px;
+    padding: 0px;  
+    margin-top: -50px;
+}
+
+#art{
+    background-color: white;
+    border: 90px solid #366994;
+    text-align: center;  
+    margin-top: 10px;
+    padding: 0px;
+    margin-left: -5px;
+    height: 2000px;
+
+}
+
+
+
+#aud{
+    text-align: center;
+    width: 400px;
+    margin-top: 30px;    
+}
+audio::-webkit-media-controls-timeline {display:flex;}
+audio::-webkit-media-controls-panel{background-color: #ffe052;}
+
+
+
+
+.rdp{
+    background-color: #ffe052;
+    border: 0px solid #366994;
+    text-align: center;  
+    margin-top: 10px;
+    padding: 70px;
+    margin-left: -5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
